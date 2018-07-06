@@ -1,1 +1,5 @@
-# react-redix-assignment
+## Development
+
+```bash
+npm i && npm run start
+```
